@@ -1,4 +1,4 @@
-# # 🎯 Interest Learning System (Console Simulation)
+# 🎯 Interest Learning System (Console Simulation)
 
 This project is a **console-based simulation** of a basic interest learning system — perfect for anyone who wants to **understand how recommendation algorithms work** without diving into advanced machine learning.
 
