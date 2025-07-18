@@ -31,5 +31,5 @@ This model is a basic example of **behavior-based learning**, a technique used i
 
 1. **Clone this repository**
    ```bash
-   git clone [https://github.com/your-user/your-repo.](https://github.com/FabianVeraza/algorithm-simulator.git
+   git clone https://github.com/FabianVeraza/algorithm-simulator.git
    cd algorithm-simulator
