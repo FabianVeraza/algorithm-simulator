@@ -33,3 +33,41 @@ This model is a basic example of **behavior-based learning**, a technique used i
    ```bash
    git clone https://github.com/FabianVeraza/algorithm-simulator.git
    cd algorithm-simulator
+
+2. **Install python (if you don't have it)**
+3. **Run the script**
+   ```bash
+   python recomendador.py
+ 4. **Use the folowing keys:**
+    - user1, user2, user3: To answer the interest questions
+    - control: to view all users' interests
+
+## 📁 Important Files
+
+- recommender.py
+- interests.json
+
+## Example Output
+   Enter your user key: usuario1
+   From 0 to 10, how interested are you in 'Music'? 9
+   From 0 to 10, how interested are you in 'Drama'? 8
+   ...
+   ✅ Your strongest interest: Music
+   🔄 Your interest has changed from 'Drama' to 'Music'
+
+   Enter your user key: control
+   user: user1 | interest: Music
+   user: user3 | interest: Science
+   user: user3 | interest: (no data yet)
+
+## Who Is This For?
+   •  Students learning programming or AI.
+	•	Curious minds who want to understand how apps “learn” about users.
+	•	Educators who need a classroom example of behavior-based logic.
+	•	Beginner developers looking for Python practice.
+
+ ## Possible Improvements
+   •  Store full interest history per user.
+	•	Turn into a web app using Flask or Streamlit.
+	•	Add multiple rounds to improve accuracy.
+	•	Explore more complex models like multi-armed bandits.
