@@ -37,7 +37,7 @@ This model is a basic example of **behavior-based learning**, a technique used i
 2. **Install python (if you don't have it)**
 3. **Run the script**
    ```bash
-   python recomendador.py
+   python recommender.py
  4. **Use the folowing keys:**
     - user1, user2, user3: To answer the interest questions
     - control: to view all users' interests
